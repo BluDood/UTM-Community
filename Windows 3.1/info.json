@@ -22,5 +22,8 @@
         "Type `setup.exe` and press enter to begin Windows 3.1 Setup",
         "Follow the setup instructions",
         "When the setup is complete, type `WIN` and press enter to start Windows 3.1. You have to run this command every time you start the virtual machine."
+    ],
+    "notes": [
+        "If you are not able to move the mouse, try clicking the mouse capture button in the toolbar. You can then press Control + Option to release the cursor."
     ]
 }
