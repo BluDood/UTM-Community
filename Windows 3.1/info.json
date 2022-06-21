@@ -1,0 +1,26 @@
+{
+    "name": "Windows 3.1",
+    "author": {
+        "name": "BluDood",
+        "github": "https://github.com/BluDood"
+    },
+    "machine": {
+        "architecture": "x86_64",
+        "memory": "64 MB",
+        "disk": "512 MB"
+    },
+    "requirements": [
+        "MS-DOS 6.22 installation floppies [WinWorldPC](https://winworldpc.com/download/c38fc38d-68c2-bbe2-80a6-4b11c3a4c2ac)",
+        "Windows 3.1 installation floppies [WinWorldPC](https://winworldpc.com/download/41574932-18c3-9a11-c3a4-e284a2c3a570)"
+    ],
+    "installation": [
+        "Attach the first MS-DOS floppy to the VM",
+        "Start the VM",
+        "Boot from the MS-DOS floppy and follow the installation process",
+        "After the installation is complete, attach the first Windows 3.1 floppy to the VM",
+        "Type `A:` and press enter to open the Windows 3.1 floppy",
+        "Type `setup.exe` and press enter to begin Windows 3.1 Setup",
+        "Follow the setup instructions",
+        "When the setup is complete, type `WIN` and press enter to start Windows 3.1. You have to run this command every time you start the virtual machine."
+    ]
+}
