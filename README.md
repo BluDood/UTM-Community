@@ -1,0 +1,2 @@
+# UTM Community Library
+Welcome! This repository is for submitting templates to [the gallery website](https://utm.bludood.com). Read [the wiki](https://github.com/BluDood/UTM-Community/wiki) to learn how to submit a Virtual Machine.
