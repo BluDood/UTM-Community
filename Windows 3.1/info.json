@@ -4,7 +4,7 @@
         "name": "BluDood",
         "github": "https://github.com/BluDood"
     },
-    "details": {
+    "machine": {
         "architecture": "x86_64",
         "memory": "64 MB",
         "disk": "512 MB"
