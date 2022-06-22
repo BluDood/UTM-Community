@@ -15,4 +15,4 @@ assignees: ''
 * OS Version: 
 * UTM Version: 
 
-**Describe your issue**
+**Describe your issue. Attach screenshots if needed.**
